@@ -1,0 +1,14 @@
+e:\ИБбгу\С#\lab1\obj\Debug\net9.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+e:\ИБбгу\С#\lab1\obj\Debug\net9.0\lab1.AssemblyInfoInputs.cache
+e:\ИБбгу\С#\lab1\obj\Debug\net9.0\lab1.AssemblyInfo.cs
+e:\ИБбгу\С#\lab1\obj\Debug\net9.0\lab1.csproj.CoreCompileInputs.cache
+e:\ИБбгу\С#\lab1\bin\Debug\net9.0\lab1.exe
+e:\ИБбгу\С#\lab1\bin\Debug\net9.0\lab1.deps.json
+e:\ИБбгу\С#\lab1\bin\Debug\net9.0\lab1.runtimeconfig.json
+e:\ИБбгу\С#\lab1\bin\Debug\net9.0\lab1.dll
+e:\ИБбгу\С#\lab1\bin\Debug\net9.0\lab1.pdb
+e:\ИБбгу\С#\lab1\obj\Debug\net9.0\lab1.dll
+e:\ИБбгу\С#\lab1\obj\Debug\net9.0\refint\lab1.dll
+e:\ИБбгу\С#\lab1\obj\Debug\net9.0\lab1.pdb
+e:\ИБбгу\С#\lab1\obj\Debug\net9.0\lab1.genruntimeconfig.cache
+e:\ИБбгу\С#\lab1\obj\Debug\net9.0\ref\lab1.dll
