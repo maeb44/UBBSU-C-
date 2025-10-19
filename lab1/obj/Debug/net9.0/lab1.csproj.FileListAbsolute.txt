@@ -12,3 +12,18 @@ e:\ИБбгу\С#\lab1\obj\Debug\net9.0\refint\lab1.dll
 e:\ИБбгу\С#\lab1\obj\Debug\net9.0\lab1.pdb
 e:\ИБбгу\С#\lab1\obj\Debug\net9.0\lab1.genruntimeconfig.cache
 e:\ИБбгу\С#\lab1\obj\Debug\net9.0\ref\lab1.dll
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\bin\Debug\net9.0\lab1.exe
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\bin\Debug\net9.0\lab1.deps.json
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\bin\Debug\net9.0\lab1.runtimeconfig.json
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\bin\Debug\net9.0\lab1.dll
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\bin\Debug\net9.0\lab1.pdb
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\obj\Debug\net9.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\obj\Debug\net9.0\lab1.AssemblyInfoInputs.cache
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\obj\Debug\net9.0\lab1.AssemblyInfo.cs
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\obj\Debug\net9.0\lab1.csproj.CoreCompileInputs.cache
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\obj\Debug\net9.0\lab1.sourcelink.json
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\obj\Debug\net9.0\lab1.dll
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\obj\Debug\net9.0\refint\lab1.dll
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\obj\Debug\net9.0\lab1.pdb
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\obj\Debug\net9.0\lab1.genruntimeconfig.cache
+D:\Институт бизнеса БГУ\UBBSU-C-\lab1\obj\Debug\net9.0\ref\lab1.dll

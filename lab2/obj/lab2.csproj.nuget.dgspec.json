@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "e:\\ИБбгу\\С#\\lab2\\lab2.csproj": {}
+    "D:\\UBBSU\\UBBSU-C-\\lab2\\lab2.csproj": {}
   },
   "projects": {
-    "e:\\ИБбгу\\С#\\lab2\\lab2.csproj": {
+    "D:\\UBBSU\\UBBSU-C-\\lab2\\lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\ИБбгу\\С#\\lab2\\lab2.csproj",
+        "projectUniqueName": "D:\\UBBSU\\UBBSU-C-\\lab2\\lab2.csproj",
         "projectName": "lab2",
-        "projectPath": "e:\\ИБбгу\\С#\\lab2\\lab2.csproj",
-        "packagesPath": "C:\\Users\\REDMI\\.nuget\\packages\\",
-        "outputPath": "e:\\ИБбгу\\С#\\lab2\\obj\\",
+        "projectPath": "D:\\UBBSU\\UBBSU-C-\\lab2\\lab2.csproj",
+        "packagesPath": "C:\\Users\\dench\\.nuget\\packages\\",
+        "outputPath": "D:\\UBBSU\\UBBSU-C-\\lab2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\REDMI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dench\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0-windows"

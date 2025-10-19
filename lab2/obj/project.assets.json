@@ -8,19 +8,19 @@
     "net9.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\REDMI\\.nuget\\packages\\": {}
+    "C:\\Users\\dench\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ИБбгу\\С#\\lab2\\lab2.csproj",
+      "projectUniqueName": "D:\\UBBSU\\UBBSU-C-\\lab2\\lab2.csproj",
       "projectName": "lab2",
-      "projectPath": "E:\\ИБбгу\\С#\\lab2\\lab2.csproj",
-      "packagesPath": "C:\\Users\\REDMI\\.nuget\\packages\\",
-      "outputPath": "E:\\ИБбгу\\С#\\lab2\\obj\\",
+      "projectPath": "D:\\UBBSU\\UBBSU-C-\\lab2\\lab2.csproj",
+      "packagesPath": "C:\\Users\\dench\\.nuget\\packages\\",
+      "outputPath": "D:\\UBBSU\\UBBSU-C-\\lab2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\REDMI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dench\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0-windows"
