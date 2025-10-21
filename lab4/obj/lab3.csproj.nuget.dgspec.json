@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UBBSU\\UBBSU-C-\\lab2\\lab2.csproj": {}
+    "D:\\UBBSU\\UBBSU-C-\\lab4\\lab3.csproj": {}
   },
   "projects": {
-    "D:\\UBBSU\\UBBSU-C-\\lab2\\lab2.csproj": {
+    "D:\\UBBSU\\UBBSU-C-\\lab4\\lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UBBSU\\UBBSU-C-\\lab2\\lab2.csproj",
-        "projectName": "lab2",
-        "projectPath": "D:\\UBBSU\\UBBSU-C-\\lab2\\lab2.csproj",
+        "projectUniqueName": "D:\\UBBSU\\UBBSU-C-\\lab4\\lab3.csproj",
+        "projectName": "lab3",
+        "projectPath": "D:\\UBBSU\\UBBSU-C-\\lab4\\lab3.csproj",
         "packagesPath": "C:\\Users\\dench\\.nuget\\packages\\",
-        "outputPath": "D:\\UBBSU\\UBBSU-C-\\lab2\\obj\\",
+        "outputPath": "D:\\UBBSU\\UBBSU-C-\\lab4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dench\\AppData\\Roaming\\NuGet\\NuGet.Config",
