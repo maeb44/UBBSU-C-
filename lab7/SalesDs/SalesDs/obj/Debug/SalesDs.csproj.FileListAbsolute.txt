@@ -1,0 +1,11 @@
+D:\UBBSU\UBBSU-C-\lab7\SalesDs\SalesDs\bin\Debug\SalesDs.exe.config
+D:\UBBSU\UBBSU-C-\lab7\SalesDs\SalesDs\bin\Debug\SalesDs.exe
+D:\UBBSU\UBBSU-C-\lab7\SalesDs\SalesDs\bin\Debug\SalesDs.pdb
+D:\UBBSU\UBBSU-C-\lab7\SalesDs\SalesDs\obj\Debug\SalesDs.csproj.AssemblyReference.cache
+D:\UBBSU\UBBSU-C-\lab7\SalesDs\SalesDs\obj\Debug\SalesDs.MainForm.resources
+D:\UBBSU\UBBSU-C-\lab7\SalesDs\SalesDs\obj\Debug\SalesDs.ManufacturerForm.resources
+D:\UBBSU\UBBSU-C-\lab7\SalesDs\SalesDs\obj\Debug\SalesDs.Properties.Resources.resources
+D:\UBBSU\UBBSU-C-\lab7\SalesDs\SalesDs\obj\Debug\SalesDs.csproj.GenerateResource.cache
+D:\UBBSU\UBBSU-C-\lab7\SalesDs\SalesDs\obj\Debug\SalesDs.csproj.CoreCompileInputs.cache
+D:\UBBSU\UBBSU-C-\lab7\SalesDs\SalesDs\obj\Debug\SalesDs.exe
+D:\UBBSU\UBBSU-C-\lab7\SalesDs\SalesDs\obj\Debug\SalesDs.pdb
