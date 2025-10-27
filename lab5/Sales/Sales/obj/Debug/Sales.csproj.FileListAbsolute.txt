@@ -1,0 +1,10 @@
+D:\UBBSU\UBBSU-C-\lab5\Sales\Sales\bin\Debug\Sales.exe.config
+D:\UBBSU\UBBSU-C-\lab5\Sales\Sales\bin\Debug\Sales.exe
+D:\UBBSU\UBBSU-C-\lab5\Sales\Sales\bin\Debug\Sales.pdb
+D:\UBBSU\UBBSU-C-\lab5\Sales\Sales\obj\Debug\Sales.csproj.AssemblyReference.cache
+D:\UBBSU\UBBSU-C-\lab5\Sales\Sales\obj\Debug\Sales.Main.resources
+D:\UBBSU\UBBSU-C-\lab5\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+D:\UBBSU\UBBSU-C-\lab5\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.cache
+D:\UBBSU\UBBSU-C-\lab5\Sales\Sales\obj\Debug\Sales.csproj.CoreCompileInputs.cache
+D:\UBBSU\UBBSU-C-\lab5\Sales\Sales\obj\Debug\Sales.exe
+D:\UBBSU\UBBSU-C-\lab5\Sales\Sales\obj\Debug\Sales.pdb
